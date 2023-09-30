@@ -16,8 +16,6 @@ def product_calc(fruit_price: int, total_price: float, basket: list, product_lis
     basket.append(f"{product_list}/{weight}кг")
     return total_price
 
-asd
-
 
 while True:
     choice = int(input(f"""
